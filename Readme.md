@@ -10,10 +10,14 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 # Attribute Information:
 
-Date : year-month-day,
+Date : year-month-day
+
 Rented Bike count - Count of bikes rented at each hour
+
 Hour - Hour of he day
+
 Temperature-Temperature in Celsius
+
 Humidity - %
 Windspeed - m/s
 Visibility - 10m
